@@ -1,0 +1,57 @@
+h1
+{
+    border-bottom: 2px solid black;
+    width: 80%;
+    margin: auto;
+}
+h2
+{
+    color: rgb(255, 102, 0);
+}
+table
+{
+    border: 1px solid black;
+    width: 80%;
+    margin: auto;
+} 
+th, td
+{
+    border: 1px dotted black;
+    width: 100px;
+    padding: 1em;
+    text-align: left;
+}
+input[type = submit]
+{
+    margin-top: 1%;
+}
+#cat_select
+{
+    width: 80%;
+    margin: auto;
+}
+.butn
+{
+    width: 80%;
+    margin-top: 2%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+}
+header
+{
+    margin-bottom: 2%;
+}
+footer
+{
+    width: 80%;
+    border-top: 2px solid black;
+    margin-top: 8%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+}
+#foot
+{
+    text-align: right;
+}
